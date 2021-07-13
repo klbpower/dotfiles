@@ -1,0 +1,10 @@
+[user]
+	name = Sergio C
+	email = sergiocalvosos@gmail.com
+[core]
+	edit = subl
+[color]
+	ui = true
+[alias]
+	lg = log --oneline --decorate --all --graph
+	s = status -s -b
