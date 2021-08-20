@@ -1,0 +1,47 @@
+{
+   "checksum": "431db82d01ca8a6263cd9abcbb81a4da",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13271725699709854",
+            "guid": "c1dfba59-18eb-4d90-b96b-9569331ef1b8",
+            "id": "5",
+            "name": "localhost / localhost | phpMyAdmin 5.0.4deb2ubuntu5",
+            "type": "url",
+            "url": "http://localhost/phpmyadmin/index.php"
+         }, {
+            "date_added": "13271725714643329",
+            "guid": "1c4e8196-1554-4676-ae3c-a899bfc4ff09",
+            "id": "6",
+            "name": "started",
+            "type": "url",
+            "url": "http://localhost:8080/"
+         } ],
+         "date_added": "13271725248425733",
+         "date_modified": "13271725714643329",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13271725248425736",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13271725248425738",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

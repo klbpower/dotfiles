@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "gnumeric.desktop",
+        "date_created": 1502208912.0,
+        "description": "He usado varias alternativas a excel, pasando por libreoffice, wps, entre otras y ninguna me ha provocado tranquilidad... Un d\u00eda quise probar algo minimalista y decid\u00ed por esta aplicaci\u00f3n. Me ha servido montones.",
+        "distro": "Fedora",
+        "karma_down": 1,
+        "karma_up": 4,
+        "locale": "es_CL",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 4216,
+        "score": 0,
+        "summary": "Simple y f(x)al",
+        "user_display": "menhir",
+        "user_hash": "7bfd3d2b710d079ffa3be092a15072b0f6db3866",
+        "user_skey": "cff045acbd5b31e9ca25e9f112480289ee0a838f",
+        "version": "1.12.35"
+    }
+]

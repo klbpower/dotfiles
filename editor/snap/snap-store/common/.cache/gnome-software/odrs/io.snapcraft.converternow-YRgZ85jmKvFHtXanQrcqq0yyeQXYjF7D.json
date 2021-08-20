@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.converternow-YRgZ85jmKvFHtXanQrcqq0yyeQXYjF7D",
+        "date_created": 1620471887.0,
+        "description": "Hace el amago de iniciar pero no llega a hacerlo nunca, lo que si me ha funcionado ha sido la desinstalacion.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 374530,
+        "score": 34,
+        "summary": "No funciona en Ubuntu Mate 20.04",
+        "user_display": "Conse",
+        "user_hash": "02e48a6e77e145bca568867e299c8e2871f6e253",
+        "user_skey": "2d9847e0e458ba83b52e2d6ad611d0ff19c210dd",
+        "version": "2.6.0"
+    }
+]

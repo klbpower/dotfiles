@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.simplenote-xKUf60sdYMZETIWuvj9eiqscV5J6M3w9",
+        "date_created": 1595159361.0,
+        "description": "Esta en todos los dispositivos. Y en Web.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 249033,
+        "score": 0,
+        "summary": "Muy bueno",
+        "user_display": "Alf3",
+        "user_hash": "4b44164bbf4ae7dcfad69f087f652f6df0b0187d",
+        "user_skey": "a9176fc1ba36b672b2b9b116dce9146e6024d686",
+        "version": "1.20.0"
+    }
+]

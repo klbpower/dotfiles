@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.peruse-KyqqNz7eq5SQEHc66qaQCCrcy3dOUlks",
+        "date_created": 1591487961.0,
+        "description": "No corre en mi instalacion de ubuntu 20.0",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 225555,
+        "score": 0,
+        "summary": "no funciona",
+        "user_display": "Damien",
+        "user_hash": "21eb535de6c8e6fa14152da1418453287713f628",
+        "user_skey": "8156bca6604817536fd8f26047d5121d6ba2c6c6",
+        "version": "1.2"
+    }
+]

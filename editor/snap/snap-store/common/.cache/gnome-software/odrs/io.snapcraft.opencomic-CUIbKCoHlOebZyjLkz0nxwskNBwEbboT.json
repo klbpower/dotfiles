@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.opencomic-CUIbKCoHlOebZyjLkz0nxwskNBwEbboT",
+        "date_created": 1612750003.0,
+        "description": "Al acercar las p\u00e1ginas no se puede mover por ellas sin la necesidad de usar el mouse, y al presionar la tecla de flecha izquierda (tecla izquierda) lo que hace es que quita el acercamiento de la p\u00e1gina e inmediatamente cambia a la siguiente p\u00e1gina sin respetar el zoom... espero haberme hecho entender...",
+        "distro": "KDE neon",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_CO",
+        "rating": 60,
+        "reported": 0,
+        "review_id": 338218,
+        "score": 24,
+        "summary": "Le falta",
+        "user_display": "aoikanade",
+        "user_hash": "0e5dbca8306497da5fb13dd980a63a1c4e88c600",
+        "user_skey": "0ba7bdbce54cb161650e35bf710202ed38e70ea2",
+        "version": "0.2.0"
+    },
+    {
+        "app_id": "io.snapcraft.opencomic-CUIbKCoHlOebZyjLkz0nxwskNBwEbboT",
+        "date_created": 1595402651.0,
+        "description": "funciona pero no reconoce las fuentes (uso las que vienen por defecto en fedora kde) y salen iconos en lugar de letras y navegar hasta encontrar mi carpeta de comics fue un dolor",
+        "distro": "Fedora",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_MX",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 250180,
+        "score": 0,
+        "summary": "horrible",
+        "user_display": "oscar-huerta-fedora-kde",
+        "user_hash": "ae0ebfebac198c60de83e6d6ff5310b2dc3529ff",
+        "user_skey": "0ba7bdbce54cb161650e35bf710202ed38e70ea2",
+        "version": "0.1.5"
+    }
+]

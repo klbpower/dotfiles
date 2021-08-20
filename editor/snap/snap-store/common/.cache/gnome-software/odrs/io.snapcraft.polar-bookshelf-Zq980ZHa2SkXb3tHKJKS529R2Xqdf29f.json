@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.polar-bookshelf-Zq980ZHa2SkXb3tHKJKS529R2Xqdf29f",
+        "date_created": 1583064686.0,
+        "description": "muy buena aplicacion\nlo que necesitaba",
+        "distro": "Debian GNU/Linux",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_VE",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 158443,
+        "score": 0,
+        "summary": "Excelente",
+        "user_display": "julio",
+        "user_hash": "ffdbf094b784922a744c834efa04892e89f0c6e1",
+        "user_skey": "ba78addd13b0f3aa53a008541867b12988f75c34",
+        "version": "1.90.18"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.taskbook-fsERVreEZH6aoBr8gclAjd2iFej23X8N",
+        "date_created": 1574763108.0,
+        "description": "I was looking for a task program and founded it! Simply, command line, clear... simply the best.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 115797,
+        "score": 0,
+        "summary": "Simply the best",
+        "user_display": "Ricardo Medrano Losa",
+        "user_hash": "9b090d1e24660c7a72a4a511db05977cf7183e35",
+        "user_skey": "de3d82c44bf1911e9204e00e13c77b07320a5797",
+        "version": "0.3.0"
+    }
+]

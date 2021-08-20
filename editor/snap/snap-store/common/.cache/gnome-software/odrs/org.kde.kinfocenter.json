@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "org.kde.kinfocenter",
+        "date_created": 1613249158.0,
+        "description": "no funciona ni se abre siquiera",
+        "distro": "Kali GNU/Linux",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 340601,
+        "score": 0,
+        "summary": "no lanza",
+        "user_display": "root1",
+        "user_hash": "24f4fb34a8a0cb6907126384cd7d29627b1f248b",
+        "user_skey": "1fc1fa71fa611f7c61c0a63e2d374b263c5359a2",
+        "version": "5.20.5"
+    },
+    {
+        "app_id": "org.kde.kinfocenter",
+        "date_created": 1617061485.0,
+        "description": "Funcion\u00f3 perfectamente!",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_NI",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 358409,
+        "score": 0,
+        "summary": "Funcion\u00f3 bien!",
+        "user_display": "Live session user",
+        "user_hash": "c450a4f5c6279d72448280e44fe3f06bfeaa19cc",
+        "user_skey": "1fc1fa71fa611f7c61c0a63e2d374b263c5359a2",
+        "version": "5.21.3-0ubuntu1"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "net.rpdev.OpenTodoList",
+        "date_created": 1562876085.0,
+        "description": "La imagen se ve interesante (en la tienda) pero nunca arranc\u00f3....\nTengo Xubuntu en una x64 con 4 Gb a 2.2 Ghz... \nSaludos.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 3,
+        "locale": "es_MX",
+        "rating": 40,
+        "reported": 0,
+        "review_id": 58545,
+        "score": 23,
+        "summary": "No arranca en Xubuntu... habr\u00e1 que indagar porqu\u00e9..",
+        "user_display": "Rom\u00e1n Rodr\u00edguez G\u00e1lvez",
+        "user_hash": "033a5ea83a2ab5d91c2423c9148e1b38e6b937b2",
+        "user_skey": "4fe04381a165280abaf0bfcdfbe965e07837caab",
+        "version": "3.13.0"
+    },
+    {
+        "app_id": "net.rpdev.OpenTodoList",
+        "date_created": 1594294533.0,
+        "description": "Tienes las funciones necessarias y funciona correctamente junto con la cuenta nextcloud",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 244845,
+        "score": 0,
+        "summary": "Minimalista y efectiba",
+        "user_display": "Dividi",
+        "user_hash": "61948c29cc994ba419c2c1993bde4183f0f1eb1a",
+        "user_skey": "4fe04381a165280abaf0bfcdfbe965e07837caab",
+        "version": "3.24.0"
+    }
+]

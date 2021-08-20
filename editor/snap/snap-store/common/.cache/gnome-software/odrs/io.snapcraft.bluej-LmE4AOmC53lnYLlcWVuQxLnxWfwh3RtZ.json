@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "bluej.desktop",
+        "date_created": 1569434369.0,
+        "description": "El IDE no reconoce javafx cuando ejecuto un proyecto, reinstal\u00e9 una nueva versi\u00f3n de javafx, y aun as\u00ed no lo reconoce el IDE.\n\nTemporalmente desinstalar\u00e9 Bluej, pero me encantar\u00eda que en su pr\u00f3xima actualizaci\u00f3n, el IDE pudiera aparecer en la tienda de software, y resolviera el problema mencionado anteriormente. \n\nAs\u00ed se facilita una instalaci\u00f3n mas sencilla en este tipo de sistemas operativos. Muchas gracias!",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_HN",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 88653,
+        "score": 0,
+        "summary": "Un peque\u00f1o problema",
+        "user_display": "Alexy",
+        "user_hash": "32159594a4c1c22e6924892656b4a5325bb7ba12",
+        "user_skey": "c08919253c01214bd25775a597cee459d438b6ac",
+        "version": "4.2.0"
+    }
+]

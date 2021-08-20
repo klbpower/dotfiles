@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.liferea-fScul3lDibAXQ69kPYuUeckHMQVS6uOT",
+        "date_created": 1619170235.0,
+        "description": "Interface en Espa\u00f1ol, aunque no esta traducido la barra de menus , pero nada que ahoge a nadie. Viene con subcripciones de ejemplo en espa\u00f1ol e ingles.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 368290,
+        "score": 51,
+        "summary": "5 mientras lo pruebo",
+        "user_display": "kortem",
+        "user_hash": "f7a98d4028aa45cb6f8a0c3df89eddf6c02903c4",
+        "user_skey": "14eb6d820d223087c7dd7579d7bcd6f220b8471e",
+        "version": "v1.12.7"
+    },
+    {
+        "app_id": "io.snapcraft.liferea-fScul3lDibAXQ69kPYuUeckHMQVS6uOT",
+        "date_created": 1609313053.0,
+        "description": "Puede que sea buena la aplicaci\u00f3n, pero es exclusiva en ingles.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 322086,
+        "score": 20,
+        "summary": "S\u00d3LO EN INGLES",
+        "user_display": "tetelx",
+        "user_hash": "60f6b85666f6a0c2c2ba7a91db586d95e9bd76e8",
+        "user_skey": "14eb6d820d223087c7dd7579d7bcd6f220b8471e",
+        "version": "v1.12.7"
+    }
+]

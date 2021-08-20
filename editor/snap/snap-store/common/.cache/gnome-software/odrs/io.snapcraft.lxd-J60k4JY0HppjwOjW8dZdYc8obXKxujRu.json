@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.lxd-J60k4JY0HppjwOjW8dZdYc8obXKxujRu",
+        "date_created": 1591399795.0,
+        "description": "De los mejores softwares que hay para gestionar contenedores.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 224892,
+        "score": 0,
+        "summary": "Maravilloso",
+        "user_display": "Diego",
+        "user_hash": "2d57dde5c3ceb6a0bf4234a6f17695d2c220e073",
+        "user_skey": "06a51c202d7f3ca79158663e81b6492a13fd18b5",
+        "version": "4.1"
+    }
+]

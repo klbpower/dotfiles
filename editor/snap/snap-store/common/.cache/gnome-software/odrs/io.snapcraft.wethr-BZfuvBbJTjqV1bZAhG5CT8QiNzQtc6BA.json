@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.wethr-BZfuvBbJTjqV1bZAhG5CT8QiNzQtc6BA",
+        "date_created": 1617232425.0,
+        "description": "Ligera, f\u00e1cil y directa. Cumple con el objetivo.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 359194,
+        "score": 51,
+        "summary": "REcomendable",
+        "user_display": "Narci",
+        "user_hash": "0df5ed35f233868ae8da872a3319e26226d513a3",
+        "user_skey": "c499473396843ee1e5f95faefd46568fb41144ba",
+        "version": "1.5.2"
+    },
+    {
+        "app_id": "io.snapcraft.wethr-BZfuvBbJTjqV1bZAhG5CT8QiNzQtc6BA",
+        "date_created": 1602003834.0,
+        "description": "No consume recuerso y entrega la informacion necesaria",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_CO.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 280330,
+        "score": 0,
+        "summary": "Excelente",
+        "user_display": "Gerente",
+        "user_hash": "41c4011639f0c914c9041651cd13c47d3ade4276",
+        "user_skey": "c499473396843ee1e5f95faefd46568fb41144ba",
+        "version": "1.5.2"
+    }
+]

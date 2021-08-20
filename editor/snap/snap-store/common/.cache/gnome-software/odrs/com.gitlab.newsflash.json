@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "com.gitlab.newsflash",
+        "date_created": 1606056174.0,
+        "description": "La aplicaci\u00f3n es muy buena, me permite estar al d\u00eda con los temas que me interesan",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_AR.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 307055,
+        "score": 0,
+        "summary": "Muy buena aplicaci\u00f3n, recomendable",
+        "user_display": "Horacio",
+        "user_hash": "6e06740d3ab2061c12fdd859544042bdf3dccb39",
+        "user_skey": "f80cbb1084814e0cea555300cdec6825abc1292b",
+        "version": "1.0.5"
+    }
+]

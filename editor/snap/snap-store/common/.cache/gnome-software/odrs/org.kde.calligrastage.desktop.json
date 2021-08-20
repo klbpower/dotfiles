@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "org.kde.calligrastage.desktop",
+        "date_created": 1587267012.0,
+        "description": "Stage es el programa m\u00e1s maduro en el paquete Calligra y es sencillamente alucinante, desde su facilidad de uso, rendimiento y funcionalidad. Diferentes tipos de formato no var\u00edan a un nivel inaccesible, pero a\u00fan requiere mayor atenci\u00f3n en este punto.",
+        "distro": "KDE neon",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_MX",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 186075,
+        "score": 0,
+        "summary": "Impresionante, el mejor logrado en Calligra",
+        "user_display": "Liam",
+        "user_hash": "f709f646e7a2c72a253021ecf6a1d65372f72427",
+        "user_skey": "d9153c7e943030c09085c7d6f48e29b516773126",
+        "version": "3.1.0-0xneon"
+    },
+    {
+        "app_id": "org.kde.calligrastage.desktop",
+        "date_created": 1600442650.0,
+        "description": "Como ninguna, m\u00e1s que excelente, genial!!",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_EC.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 272889,
+        "score": 0,
+        "summary": "Guap\u00edsima app!",
+        "user_display": "Cuervo",
+        "user_hash": "273b047d0521c962b702c137a81cffd9ea72aa50",
+        "user_skey": "d9153c7e943030c09085c7d6f48e29b516773126",
+        "version": "3.1.0"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.chronoburn-d1UV8G3QdQ6ZJYGwdBuLVWD2RziPs1u8",
+        "date_created": 1617918104.0,
+        "description": "hhhh",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 362412,
+        "score": 51,
+        "summary": "no funciona se queda enblanco",
+        "user_display": "susana",
+        "user_hash": "a0ca07c3dbc3d1bce7c01465d4542813e85ab214",
+        "user_skey": "b0ea1344db1360cb17c939bce0dbadb52c9d4b16",
+        "version": "2.3.7"
+    },
+    {
+        "app_id": "io.snapcraft.chronoburn-d1UV8G3QdQ6ZJYGwdBuLVWD2RziPs1u8",
+        "date_created": 1592499158.0,
+        "description": "Se queda en blanco y no ejecuta",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 233161,
+        "score": 0,
+        "summary": "No ejecuta",
+        "user_display": "Laura",
+        "user_hash": "3f1a3f03502b43d3da36104ff5c5910ba34caaee",
+        "user_skey": "b0ea1344db1360cb17c939bce0dbadb52c9d4b16",
+        "version": "2.3.7"
+    }
+]

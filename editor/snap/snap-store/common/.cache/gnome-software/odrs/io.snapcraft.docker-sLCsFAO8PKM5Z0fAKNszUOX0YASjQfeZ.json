@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.docker-sLCsFAO8PKM5Z0fAKNszUOX0YASjQfeZ",
+        "date_created": 1584320255.0,
+        "description": "Me ha funcionado para reparar servicios, descargando la \u00faltima versi\u00f3n",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 165091,
+        "score": 0,
+        "summary": "La recomiendo",
+        "user_display": "jordi",
+        "user_hash": "d396ae0a607d640e0bc43d0027466e91878593a1",
+        "user_skey": "20c42efac8ea2cd52952f87c40be74dfabacf0c8",
+        "version": "18.09.9"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.alacritty.Alacritty",
+        "date_created": 1619913045.0,
+        "description": "Super configurable, rapido, agil",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_AR.UTF-8",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 371805,
+        "score": 51,
+        "summary": "excelente",
+        "user_display": "Ariel",
+        "user_hash": "c9d72e11bbbb794da6da0ea4efa7f99d6c6aa5be",
+        "user_skey": "494fc125bb1e2eff98f4837b473ee1e36f14ccfe",
+        "version": "0.7.2"
+    }
+]

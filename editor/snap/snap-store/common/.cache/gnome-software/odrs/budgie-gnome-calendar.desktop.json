@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "budgie-gnome-calendar.desktop",
+        "date_created": 1594665377.0,
+        "description": "Funciona muy bien con Ubuntu Budgie.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_CO.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 246627,
+        "score": 0,
+        "summary": "Es muy buena",
+        "user_display": "manuel",
+        "user_hash": "399cde9011734a3070952bfd27c09d82cd87d69b",
+        "user_skey": "612311ab9c809c9953fc3a861a030325d43c4ad7",
+        "version": "0.13.7"
+    },
+    {
+        "app_id": "budgie-gnome-calendar.desktop",
+        "date_created": 1599970105.0,
+        "description": "Se ve bonita, pero no me sirve.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_CL.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 270764,
+        "score": 0,
+        "summary": "No se puede sincronizar con outlook",
+        "user_display": "Jocelyn Hern\u00e1ndez C.",
+        "user_hash": "ad41a8de7db01739eafe6fcca69e97c7e29e803d",
+        "user_skey": "612311ab9c809c9953fc3a861a030325d43c4ad7",
+        "version": "0.13.7"
+    }
+]

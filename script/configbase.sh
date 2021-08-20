@@ -9,3 +9,7 @@ cd  $HOME
 cd .dotfiles
 cd editor
 cp -r .vscode $HOME
+
+cd ..
+cd editor
+cp -r snap $HOME

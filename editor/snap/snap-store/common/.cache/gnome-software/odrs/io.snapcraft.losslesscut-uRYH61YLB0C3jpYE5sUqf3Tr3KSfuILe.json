@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.losslesscut-uRYH61YLB0C3jpYE5sUqf3Tr3KSfuILe",
+        "date_created": 1616220120.0,
+        "description": "Es f\u00e1cil de usar, intuitivo. Es posible cortar varios segmentos a la vez.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_MX.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 354211,
+        "score": 33,
+        "summary": "F\u00e1cil y r\u00e1pido",
+        "user_display": "rick",
+        "user_hash": "b3b41de19fc756d40a9d6f9ada7bf2a94fcfd44b",
+        "user_skey": "1bea00515bb20864b6b429ac2aa4d902b1ffc263",
+        "version": "3.32.0"
+    },
+    {
+        "app_id": "io.snapcraft.losslesscut-uRYH61YLB0C3jpYE5sUqf3Tr3KSfuILe",
+        "date_created": 1610016710.0,
+        "description": "La uso para cortar videos. Rapid\u00edsimo.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 325262,
+        "score": 10,
+        "summary": "Simplemente hace lo que dice su nombre",
+        "user_display": "Administrador",
+        "user_hash": "61b40c618876d31b4b78f698c4e45b54a02f5802",
+        "user_skey": "1bea00515bb20864b6b429ac2aa4d902b1ffc263",
+        "version": "3.23.8"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.jupyter-CV3VwQ6jiZ5jNhGLngacJ2rtyWxgixaD",
+        "date_created": 1587479003.0,
+        "description": "Complementa muy bien con https://colab.research.google.com/\n\nEstoy gratamente sorprendido.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_ES",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 187719,
+        "score": 0,
+        "summary": "Para desarrollar documentaci\u00f3n interactiva",
+        "user_display": "miquelserra",
+        "user_hash": "30359384e1c48ecb951cab2533bb5c977da296b0",
+        "user_skey": "b6f7bac69cf28335380435c866675b1b48577794",
+        "version": "1.0.0"
+    }
+]

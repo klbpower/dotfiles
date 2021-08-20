@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.mcomix-tabetai-3DtzvFBf5ADs0tanXlF4yQVvCx0JKxQ2",
+        "date_created": 1598452062.0,
+        "description": "Me gusta. No es perfecta, pero cumple su funci\u00f3n y no es para nada complicada.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "es_CL.UTF-8",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 263516,
+        "score": 0,
+        "summary": "Funciona y es sencilla",
+        "user_display": "Mauricio",
+        "user_hash": "3ca1477fc724b41120d0de06189936cc330ac417",
+        "user_skey": "e0f8c72e512219d0b884765c9a0dec0bd3a64579",
+        "version": "1.2.1"
+    }
+]
